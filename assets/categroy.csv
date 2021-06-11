@@ -1,0 +1,28 @@
+name, popularity, iconCode
+Gas station, 0, 0xe546
+Grocery store, 0, 0xe82a
+Car,0, 0xe531
+Furniture store, 0, 0xefed
+Restaurant, 0, oxe56c,
+Cafe, 0, 0xe541,
+Fast food , 0, 0xe57a
+Hobby, 0, 0xe52f
+Travel, 0, 0xe539
+Drugstore, 0, 0xe87c
+Clothing store, 0, 0xea1d
+Education, 0, 0xe80c
+Kids, 0, 0xeb41
+Fashion, 0, 0xe838
+Eelectronics, 0, 0xe1b1
+Fun, 0, 0xea65
+Bills, 0, 0xe88a
+Bakery, 0, 0xea53
+Fine,0, 0xe90e
+Public transport, 0, 0xe534
+Wine shop, 0, 0xf1e8
+Home & garden, 0, 0xe587
+Pharmacy, 0, 0xf033
+Beauty saloon ,0, 0xeb4c
+Health care, 0, 0xe1d5
+Sport, 0, 0xe1b1
+

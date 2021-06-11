@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "326650400164",
+    "project_id": "zavrsni-rad-1",
+    "storage_bucket": "zavrsni-rad-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326650400164:android:8bb0a1cfb330a1d8434531",
+        "android_client_info": {
+          "package_name": "com.fpavicic.scanthebill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326650400164-r124e8mp54slqo6v91p9r33b1inq3gf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjRQUOKNJXTGEILIrs-zewkCzezZWXMmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326650400164-r124e8mp54slqo6v91p9r33b1inq3gf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

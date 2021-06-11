@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Gas station",
+    "popularity": 0,
+    "iconCode": "0xe546"
+  },
+  {
+    "name": "Grocery store",
+    "popularity": 0,
+    "iconCode": "0xe82a"
+  },
+  {
+    "name": "Car",
+    "popularity": 0,
+    "iconCode": "0xe531"
+  },
+  {
+    "name": "Furniture store",
+    "popularity": 0,
+    "iconCode": "0xefed"
+  },
+  {
+    "name": "Restaurant",
+    "popularity": 0,
+    "iconCode": "0xe56c"
+  },
+  {
+    "name": "Cafe",
+    "popularity": 0,
+    "iconCode": "0xe541"
+  },
+  {
+    "name": "Fast food",
+    "popularity": 0,
+    "iconCode": "0xe57a"
+  },
+  {
+    "name": "Hobby",
+    "popularity": 0,
+    "iconCode": "0xe50a"
+  },
+  {
+    "name": "Travel",
+    "popularity": 0,
+    "iconCode": "0xe539"
+  },
+  {
+    "name": "Drugstore",
+    "popularity": 0,
+    "iconCode": "0xe87c"
+  },
+  {
+    "name": "Clothing store",
+    "popularity": 0,
+    "iconCode": "0xea1d"
+  },
+  {
+    "name": "Education",
+    "popularity": 0,
+    "iconCode": "0xe80c"
+  },
+  {
+    "name": "Kids",
+    "popularity": 0,
+    "iconCode": "0xeb41"
+  },
+  {
+    "name": "Fashion",
+    "popularity": 0,
+    "iconCode": "0xe838"
+  },
+  {
+    "name": "Eelectronics",
+    "popularity": 0,
+    "iconCode": "0xe1b1"
+  },
+  {
+    "name": "Fun",
+    "popularity": 0,
+    "iconCode": "0xea65"
+  },
+  {
+    "name": "Bills",
+    "popularity": 0,
+    "iconCode": "0xe88a"
+  },
+  {
+    "name": "Bakery",
+    "popularity": 0,
+    "iconCode": "0xea53"
+  },
+  {
+    "name": "Fine",
+    "popularity": 0,
+    "iconCode": "0xe90e"
+  },
+  {
+    "name": "Public transport",
+    "popularity": 0,
+    "iconCode": "0xe534"
+  },
+  {
+    "name": "Wine shop",
+    "popularity": 0,
+    "iconCode": "0xf1e8"
+  },
+  {
+    "name": "Home & garden",
+    "popularity": 0,
+    "iconCode": "0xe587"
+  },
+  {
+    "name": "Pharmacy",
+    "popularity": 0,
+    "iconCode": "0xf033"
+  },
+  {
+    "name": "Beauty saloon",
+    "popularity": 0,
+    "iconCode": "0xeb4c"
+  },
+  {
+    "name": "Health care",
+    "popularity": 0,
+    "iconCode": "0xe1d5"
+  },
+  {
+    "name": "Sport",
+    "popularity": 0,
+    "iconCode": "0xe1b1"
+  }
+]
